@@ -87,6 +87,7 @@ Comes with lightweight example front-end script which uses the pool's AJAX API.
 * http://multihash.de
 * http://monero.rs
 * http://backup-pool.com/monero
+* http://xmr.farm
 
 Usage
 ===
